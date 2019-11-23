@@ -19,14 +19,12 @@ Education
 Work experience
 ======
 * 2019-present: Research Fellow
-  * .
-  * Duties included: .
 
 * 2014-2019: Research Assistant
   * University of Canterbury
   * Duties included: quantitative and qualitative research related activities such as literature review, semi-structured interviews, scientific reconnaissance impact assessments, geospatial analysis (ArcGIS, QGIS), statistical analysis, report and journal manuscript writing, teaching of undergraduate and postgraduate courses in geology and disaster risk and resilience.
   
-  * 2012-2014: Laboratory Demonstrator
+* 2012-2014: Laboratory Demonstrator
   * University of Canterbury
   * Duties included: assisting the senior tutor in undergraduate geology laboratories.
   
