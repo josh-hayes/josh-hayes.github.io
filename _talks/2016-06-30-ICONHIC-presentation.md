@@ -3,7 +3,7 @@ title: "A multi-disciplinary approach to developing a volcanic eruption scenario
 collection: talks
 type: "Conference proceedings talk"
 permalink: /talks/2016-06-30-ICONHIC-presentation
-venue: "1st international Conference on Natural Hazards and Infrastructure "
+venue: "1st international Conference on Natural Hazards and Infrastructure"
 date: 2016-06-30
 location: "Chania, Greece"
 ---
