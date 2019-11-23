@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Josh Hayes - Disaster Risk and Resilience"
+title: "Welcome!"
 excerpt: "Welcome!"
 author_profile: true
 redirect_from: 
@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I'm a research scientist specialising in disaster risk and resilience. 
+Hi, I'm a research scientist in disaster risk and resilience, and I specialise in assessing volcanic risk. This website serves as a respository for me to share some of my ideas, photos, maps, and data from recent research and collaborations.
