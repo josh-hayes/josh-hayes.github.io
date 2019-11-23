@@ -2,7 +2,7 @@
 title: "A model to assess tephra clean-up requirements in urban environments"
 collection: publications
 permalink: /publication/2017-01-06-Cleanup-Model
-excerpt: 'This paper presents an overview of tephra clean-up activies following the 2015 eruption of Calbuco volcano, Chile.'
+excerpt: 'This paper develops a geospatial model for assessing tephra clean-up requirements.'
 date: 2017-01-06
 venue: 'Journal of Applied Volcanology'
 paperurl: 'https://doi.org/10.1186/s13617-016-0052-3'
