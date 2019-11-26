@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Clean-up of urban areas after volcanic eruptions"
+excerpt: "<br/><img src='https://photos.app.goo.gl/RjDDxV3ye6cn3pHw6' width="600" height="500">"
 collection: portfolio
 ---
 
