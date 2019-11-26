@@ -1,6 +1,6 @@
 ---
 title: "Clean-up of urban areas after volcanic eruptions"
-excerpt: "<br/><img src='https://photos.app.goo.gl/RjDDxV3ye6cn3pHw6' width="600" height="500">"
+excerpt: "<br/><img src='https://photos.app.goo.gl/RjDDxV3ye6cn3pHw6' width="500" height="300">"
 collection: portfolio
 ---
 
